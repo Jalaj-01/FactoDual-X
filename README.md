@@ -149,5 +149,6 @@ This is an independent open-source PyTorch implementation inspired by the FactoF
 
 ## Acknowledgements
 
+- Special thanks to Kaustuv Nag for his guidance, support, and valuable contributions to this work.
 - Inspiration drawn from the design principles of [FactoFormer](https://arxiv.org/abs/2306.01234).
 - Thanks to the researchers behind the Indian Pines hyperspectral dataset.
